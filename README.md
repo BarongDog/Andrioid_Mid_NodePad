@@ -1,5 +1,5 @@
 # Andrioid_Mid_NodePad
-nomal NodePad
+normal NodePad
 
 1.主页面
 
